@@ -1,0 +1,15 @@
+{
+    "name": "carlos/tests-carbon",
+    "description": "Testando carbon...",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@especializati.com.br"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.22"
+    }
+}
